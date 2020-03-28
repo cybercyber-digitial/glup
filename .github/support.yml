@@ -1,0 +1,13 @@
+# Configuration for support-requests - https://github.com/dessant/support-requests
+supportLabel: support
+supportComment: >
+  Issues are reserved for bugs and features. Here are a few places to find answers to your question:
+
+  * For community support, use the `glup` tag on [StackOverflow](https://stackoverflow.com/questions/tagged/glup).
+
+  * Participate in community chat on [Gitter](https://gitter.im/glupjs/glup).
+
+  * To get paid support directly from the maintainers, sign up for [Tidelift](https://tidelift.com/subscription/pkg/npm-glup?utm_source=npm-glup&utm_medium=referral&utm_campaign=support). Subscribers should email support@tidelift.com, mention that it's a question for glup, and describe your question. Straightforward questions are answered as part of your subscription. Additional consulting hours are available for more complex help.
+close: true
+lock: false
+setLockReason: false
